@@ -14,7 +14,6 @@ Increases the efficiency of the recycling process
 Reduces the complexity and cost of manual waste disposal
 Helps in solving urban waste problems
 Provides an effective way to differentiate between different types of plastic, which can be recycled and used in the production of various materials
-### Usage
-To use this system, you need to capture the image of the waste using your mobile device, and the system will categorize it into one of the four categories - PET, PP, HDPE, or LDPE. This system can be used in a filter plant or a citizen home to automate the recycling process and reduce waste.
+
 
 ### Publication : https://www.irjet.net/archives/V9/i5/IRJET-V9I504.pdf 
